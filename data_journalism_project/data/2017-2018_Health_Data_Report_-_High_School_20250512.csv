@@ -1,0 +1,523 @@
+School DBN,Community School District,City Council District,School Name,# of students in grades 9-12,# of students in grades 9-12 who have completed at least one semester of health instruction,%,# of 17-18 June and August graduates,# of 17-18 June and August graduates meeting high school health requirements,% 1
+01M292,1,1,Orchard Collegiate Academy,160,s,s,s,s,s
+01M448,1,1,University Neighborhood High School,445,295,66.3%,76,76,100.0%
+01M450,1,2,East Side Community School,374,371,99.2%,91,91,100.0%
+01M458,1,1,Forsyth Satellite Academy,139,125,89.9%,s,s,s
+01M509,1,1,Marta Valle High School,132,s,s,29,29,100.0%
+01M515,1,1,Lower East Side Preparatory High School,564,376,66.7%,115,115,100.0%
+01M539,1,2,"New Explorations into Science, Technology and Math High School",579,411,71.0%,124,124,100.0%
+01M650,1,1,Cascades High School,166,162,97.6%,35,35,100.0%
+01M696,1,2,Bard High School Early College,586,570,97.3%,133,133,100.0%
+02M047,2,2,47 The American Sign Language and English Secondary School,164,66,40.2%,31,31,100.0%
+02M135,2,1,Quest to Learn,272,204,75.0%,60,60,100.0%
+02M139,2,3,Stephen T. Mather Building Arts & Craftsmanship High School,386,168,43.5%,80,80,100.0%
+02M260,2,2,The Clinton School,306,301,98.4%,s,s,s
+02M280,2,1,Manhattan Early College School for Advertising,367,147,40.1%,72,71,98.6%
+02M282,2,1,Urban Assembly Maker Academy,379,369,97.4%,85,85,100.0%
+02M288,2,3,Food and Finance High School,374,96,25.7%,69,69,100.0%
+02M294,2,1,Essex Street Academy,327,319,97.6%,75,75,100.0%
+02M296,2,3,High School of Hospitality Management,379,363,95.8%,69,69,100.0%
+02M298,2,1,Pace High School,534,453,84.8%,100,99,99.0%
+02M300,2,3,"Urban Assembly School of Design and Construction, The",330,146,44.2%,69,69,100.0%
+02M303,2,3,"Facing History School, The",364,350,96.2%,77,77,100.0%
+02M305,2,1,"Urban Assembly Academy of Government and Law, The",290,235,81.0%,47,47,100.0%
+02M308,2,1,Lower Manhattan Arts Academy,314,73,23.2%,65,65,100.0%
+02M313,2,3,"James Baldwin School, The: A School for Expeditionary Learning",230,173,75.2%,56,56,100.0%
+02M316,2,1,"Urban Assembly School of Business for Young Women, the",220,104,47.3%,46,46,100.0%
+02M374,2,2,Gramercy Arts High School,473,350,74.0%,95,95,100.0%
+02M376,2,3,NYC iSchool,446,191,42.8%,109,109,100.0%
+02M392,2,3,MANHATTAN BUSINESS ACADEMY,411,195,47.4%,84,84,100.0%
+02M393,2,3,Business Of Sports School,420,101,24.0%,75,75,100.0%
+02M394,2,1,Emma Lazarus High School,306,172,56.2%,41,41,100.0%
+02M399,2,2,The High School For Language And Diplomacy,323,244,75.5%,103,103,100.0%
+02M400,2,3,High School for Environmental Studies,1163,813,69.9%,251,251,100.0%
+02M407,2,2,Institute for Collaborative Education,278,79,28.4%,68,68,100.0%
+02M408,2,3,Professional Performing Arts High School,436,428,98.2%,119,119,100.0%
+02M411,2,2,Baruch College Campus High School,463,454,98.1%,116,116,100.0%
+02M412,2,3,N.Y.C. Lab School for Collaborative Studies,492,336,68.3%,127,127,100.0%
+02M413,2,2,School of the Future High School,439,329,74.9%,98,98,100.0%
+02M414,2,3,N.Y.C. Museum School,438,427,97.5%,112,112,100.0%
+02M416,2,5,Eleanor Roosevelt High School,539,528,98.0%,143,143,100.0%
+02M418,2,1,Millennium High School,662,662,100.0%,173,173,100.0%
+02M419,2,3,Landmark High School,334,321,96.1%,54,54,100.0%
+02M420,2,2,High School for Health Professions and Human Services,1774,1673,94.3%,367,367,100.0%
+02M422,2,3,Quest to Learn,333,222,66.7%,66,66,100.0%
+02M425,2,1,Leadership and Public Service High School,499,451,90.4%,92,92,100.0%
+02M427,2,2,MANHATTAN ACADEMY FOR ARTS & LANGUAGE,269,174,64.7%,54,54,100.0%
+02M432,2,2,Murray Hill Academy,299,162,54.2%,45,45,100.0%
+02M437,2,3,Hudson High School of Learning Technologies,443,437,98.6%,82,82,100.0%
+02M438,2,2,International High School at Union Square,355,249,70.1%,54,54,100.0%
+02M439,2,3,Manhattan Village Academy,457,454,99.3%,125,125,100.0%
+02M449,2,5,Vanguard High School,429,230,53.6%,96,88,91.7%
+02M459,2,5,Manhattan International High School,s,s,s,60,60,100.0%
+02M475,2,1,Stuyvesant High School,3323,1814,54.6%,814,814,100.0%
+02M489,2,1,High School of Economics and Finance,718,707,98.5%,154,154,100.0%
+02M500,2,2,Unity Center for Urban Technologies,245,151,61.6%,60,60,100.0%
+02M507,2,3,Urban Assembly Gateway School for Technology,443,328,74.0%,97,97,100.0%
+02M519,2,5,Talent Unlimited High School,474,273,57.6%,113,113,100.0%
+02M520,2,1,Murry Bergtraum High School for Business Careers,231,134,58.0%,53,53,100.0%
+02M529,2,4,Jacqueline Kennedy Onassis High School,535,493,92.1%,94,94,100.0%
+02M531,2,4,Repertory Company High School for Theatre Arts,s,s,s,s,s,s
+02M533,2,2,Union Square Academy for Health Sciences,392,386,98.5%,78,77,98.7%
+02M534,2,3,Harvest Collegiate High School,477,135,28.3%,108,108,100.0%
+02M542,2,3,Manhattan Bridges High School,525,445,84.8%,120,120,100.0%
+02M543,2,1,New Design High School,415,187,45.1%,80,80,100.0%
+02M544,2,3,Independence High School,274,209,76.3%,54,53,98.1%
+02M545,2,1,High School for Dual Language and Asian Studies,393,178,45.3%,98,98,100.0%
+02M546,2,2,Academy for Software Engineering,448,442,98.7%,100,100,100.0%
+02M550,2,3,Liberty High School Academy for Newcomers,451,221,49.0%,72,72,100.0%
+02M551,2,1,Urban Assembly New York Harbor School,503,488,97.0%,88,88,100.0%
+02M560,2,3,High School M560 - City As School,503,483,96.0%,134,132,98.5%
+02M565,2,5,Urban Academy Laboratory High School,s,s,s,34,34,100.0%
+02M570,2,3,Satellite Academy High School,196,188,95.9%,s,s,s
+02M575,2,2,Manhattan Comprehensive Night and Day High School,642,520,81.0%,174,174,100.0%
+02M580,2,1,Richard R. Green High School of Teaching,476,412,86.6%,92,92,100.0%
+02M586,2,2,Harvey Milk High School,77,73,94.8%,s,s,s
+02M600,2,3,The High School of Fashion Industries,1549,1115,72.0%,369,368,99.7%
+02M605,2,3,Humanities Preparatory Academy,223,212,95.1%,55,55,100.0%
+02M615,2,3,Chelsea Career and Technical Education High School,427,412,96.5%,78,78,100.0%
+02M630,2,4,Art and Design High School,1420,1333,93.9%,337,337,100.0%
+02M655,2,5,Life Sciences Secondary School,490,327,66.7%,98,98,100.0%
+03M299,3,6,The Maxine Greene HS for Imaginative Inquiry,393,200,50.9%,65,65,100.0%
+03M307,3,6,"Urban Assembly School for Media Studies, The",386,208,53.9%,82,82,100.0%
+03M402,3,6,The Urban Assembly School for Green Careers,302,292,96.7%,69,69,100.0%
+03M403,3,6,The Global Learning Collaborative,402,256,63.7%,82,82,100.0%
+03M404,3,6,Innovation Diploma Plus,182,174,95.6%,38,38,100.0%
+03M415,3,9,Wadleigh Secondary School for the Performing & Visual Arts,189,83,43.9%,39,39,100.0%
+03M417,3,6,Frank Mccourt High School,400,104,26.0%,88,88,100.0%
+03M479,3,3,Beacon High School,1370,621,45.3%,313,313,100.0%
+03M485,3,6,Fiorello H. LaGuardia High School of Music & Art and Performing Arts,2798,844,30.2%,602,601,99.8%
+03M492,3,6,"High School for Law, Advocacy and Community Justice",450,198,44.0%,95,95,100.0%
+03M494,3,6,High School of Arts and Technology,488,254,52.0%,76,76,100.0%
+03M505,3,7,Edward A. Reynolds West Side High School,327,257,78.6%,58,58,100.0%
+03M541,3,6,Manhattan / Hunter Science High School,442,439,99.3%,110,110,100.0%
+03M859,3,6,Special Music School,176,127,72.2%,45,45,100.0%
+03M860,3,9,Frederick Douglass Academy II Secondary School,297,120,40.4%,58,58,100.0%
+04M310,4,8,THE JUDITH S. KAYE HIGH SCHOOL,69,38,55.1%,s,s,s
+04M372,4,8,Esperanza Preparatory Academy,361,158,43.8%,61,61,100.0%
+04M409,4,8,Coalition School for Social Change,112,111,99.1%,s,s,s
+04M435,4,8,Manhattan Center for Science and Mathematics,1607,642,40.0%,376,376,100.0%
+04M495,4,8,Park East High School,396,373,94.2%,92,92,100.0%
+04M555,4,8,Central Park East High School,491,349,71.1%,127,127,100.0%
+04M610,4,8,Young Women's Leadership School,323,233,72.1%,86,86,100.0%
+04M680,4,8,"Heritage School, The",288,159,55.2%,42,42,100.0%
+05M148,5,9,Eagle Academy for Young Men of Harlem,135,s,s,s,s,s
+05M157,5,9,The Urban Assembly School for Global Commerce,234,144,61.5%,46,46,100.0%
+05M285,5,9,Harlem Renaissance High School,169,138,81.7%,32,32,100.0%
+05M304,5,9,Mott Hall High School,302,263,87.1%,58,58,100.0%
+05M362,5,7,Columbia Secondary School,398,389,97.7%,88,88,100.0%
+05M367,5,7,Academy for Social Action,71,s,s,s,s,s
+05M369,5,7,Urban Assembly School for the Performing Arts,345,s,s,s,s,s
+05M499,5,9,Frederick Douglass Academy,1026,453,44.2%,215,215,100.0%
+05M670,5,9,Thurgood Marshall Academy for Learning and Social Change,357,245,68.6%,65,65,100.0%
+05M692,5,9,"High School for Mathematics, Science and Engineering at City College",496,346,69.8%,106,106,100.0%
+06M211,6,10,Inwood Early College for Health and Information Technologies,377,284,75.3%,78,78,100.0%
+06M293,6,10,City College Academy of the Arts,343,s,s,85,85,100.0%
+06M346,6,7,Community Health Academy of the Heights,413,323,78.2%,78,78,100.0%
+06M348,6,10,Washington Heights Expeditionary Learning School,381,260,68.2%,74,74,100.0%
+06M423,6,10,High School for Excellence and Innovation,185,s,s,s,s,s
+06M462,6,10,The College Academy,421,219,52.0%,78,78,100.0%
+06M463,6,10,High School for Media and Communications,379,146,38.5%,s,s,s
+06M467,6,10,High School for Law and Public Service,523,196,37.5%,110,109,99.1%
+06M468,6,10,High School for Health Careers and Sciences,416,389,93.5%,84,84,100.0%
+06M540,6,9,A. Philip Randolph Campus High School,1296,273,21.1%,206,206,100.0%
+06M552,6,10,Gregorio Luperon High School for Science and Mathematics,519,181,34.9%,105,105,100.0%
+07X221,7,8,South Bronx Preparatory: A College Board School,382,378,99.0%,87,87,100.0%
+07X223,7,8,The Laboratory School of Finance and Technology: X223,391,376,96.2%,107,107,100.0%
+07X259,7,8,"H.E.R.O. High (Health, Education, and Research Occupations High School)",482,456,94.6%,76,69,90.8%
+07X334,7,8,International Community High School,412,105,25.5%,83,83,100.0%
+07X379,7,17,Jill Chaifetz Transfer High School,196,194,99.0%,26,26,100.0%
+07X381,7,17,Bronx Haven High School,145,130,89.7%,20,19,95.0%
+07X427,7,8,Community School for Social Justice,289,240,83.0%,46,46,100.0%
+07X473,7,17,Mott Haven Village Preparatory High School,353,157,44.5%,61,61,100.0%
+07X495,7,17,University Heights Secondary School,484,218,45.0%,103,103,100.0%
+07X500,7,17,Hostos-Lincoln Academy of Science,348,183,52.6%,72,71,98.6%
+07X522,7,17,Bronx Design and Construction Academy,467,398,85.2%,77,77,100.0%
+07X527,7,17,Bronx Leadership Academy II High School,521,466,89.4%,100,97,97.0%
+07X547,7,17,New Explorers High School,266,211,79.3%,36,36,100.0%
+07X548,7,17,Careers in Sports High School,496,460,92.7%,81,81,100.0%
+07X551,7,8,The Urban Assembly Bronx Academy of Letters,325,217,66.8%,67,67,100.0%
+07X557,7,8,Mott Haven Community High School,195,187,95.9%,47,47,100.0%
+07X600,7,17,Alfred E. Smith Career and Technical Education High School,447,305,68.2%,71,71,100.0%
+07X670,7,8,Health Opportunities High School,457,294,64.3%,94,94,100.0%
+08X269,8,17,Bronx Studio School for Writers and Artists,359,339,94.4%,59,59,100.0%
+08X282,8,18,Women's Academy of Excellence,264,159,60.2%,44,44,100.0%
+08X293,8,13,Renaissance High School for Musical Theater and the Arts,463,351,75.8%,85,85,100.0%
+08X312,8,18,Millennium Art Academy,425,389,91.5%,88,88,100.0%
+08X320,8,13,Pelham Lab High School,442,324,73.3%,72,72,100.0%
+08X332,8,17,Holcombe L. Rucker School of Community Research,134,76,56.7%,23,23,100.0%
+08X348,8,13,Schuylerville Preparatory High School,373,265,71.0%,85,85,100.0%
+08X349,8,13,Bronx River High School,425,410,96.5%,88,88,100.0%
+08X367,8,18,"Archimedes Academy for Math, Science and Technology Applications",363,256,70.5%,62,61,98.4%
+08X376,8,18,Antonia Pantoja Preparatory Academy: A College Board School,226,70,31.0%,33,33,100.0%
+08X377,8,18,Bronx Community High School,163,139,85.3%,22,22,100.0%
+08X405,8,13,Herbert H. Lehman High School,693,240,34.6%,129,129,100.0%
+08X432,8,18,Bronx Bridges High School,327,181,55.4%,65,65,100.0%
+08X452,8,18,Gotham Collaborative High School,500,451,90.2%,94,94,100.0%
+08X519,8,17,The Felisa Rincon de Gautier Institute for Law and Public Policy,124,95,76.6%,s,s,s
+08X530,8,17,Longwood Preparatory Academy,177,51,28.8%,34,34,100.0%
+08X537,8,17,Bronx Arena High School,156,126,80.8%,s,s,s
+08X558,8,13,Westchester Square Academy,592,423,71.5%,138,138,100.0%
+08X559,8,17,School for Tourism and Hospitality,299,168,56.2%,20,20,100.0%
+08X561,8,18,Bronx Compass High School,426,297,69.7%,78,78,100.0%
+09X227,9,16,Bronx Collegiate Academy,363,294,81.0%,69,69,100.0%
+09X231,9,15,Eagle Academy for Young Men,303,278,91.7%,64,64,100.0%
+09X241,9,16,"Urban Assembly School for Applied Math and Science, The",353,353,100.0%,81,81,100.0%
+09X250,9,16,Eximius College Preparatory Academy: A College Board School,415,399,96.1%,83,83,100.0%
+09X252,9,16,Mott Hall Bronx High School,380,124,32.6%,86,86,100.0%
+09X260,9,16,Bronx Center for Science and Mathematics,447,252,56.4%,104,104,100.0%
+09X263,9,16,Validus Preparatory Academy,370,253,68.4%,66,66,100.0%
+09X297,9,16,Morris Academy for Collaborative Studies,377,222,58.9%,70,70,100.0%
+09X324,9,16,Bronx Early College Academy for Teaching & Learning,252,171,67.9%,41,41,100.0%
+09X327,9,14,Comprehensive Model School Project M.S. 327,428,226,52.8%,92,92,100.0%
+09X329,9,16,DreamYard Preparatory School,249,125,50.2%,48,48,100.0%
+09X350,9,16,New Directions Secondary School,128,23,18.0%,s,s,s
+09X365,9,14,Academy for Language and Technology,322,147,45.7%,s,s,s
+09X403,9,16,Bronx International High School,403,274,68.0%,65,65,100.0%
+09X404,9,16,School for Excellence,359,263,73.3%,60,60,100.0%
+09X412,9,16,Bronx High School of Business,248,80,32.3%,43,43,100.0%
+09X413,9,16,Bronx High School for Medical Science,260,93,35.8%,44,44,100.0%
+09X505,9,16,"Bronx School for Law, Government and Justice",495,348,70.3%,115,115,100.0%
+09X517,9,16,Frederick Douglass Academy III Secondary School,408,246,60.3%,73,73,100.0%
+09X525,9,15,Bronx Leadership Academy High School,558,238,42.7%,98,98,100.0%
+09X543,9,16,High School for Violin and Dance,261,144,55.2%,67,67,100.0%
+09X564,9,16,Claremont International HS,361,270,74.8%,67,67,100.0%
+09X568,9,14,Young Women's Leadership School of the Bronx,212,130,61.3%,s,s,s
+10X141,10,11,Riverdale / Kingsbridge Academy (Middle School / High School 141),712,650,91.3%,168,168,100.0%
+10X213,10,10,Bronx Engineering and Technology Academy,397,s,s,67,67,100.0%
+10X225,10,15,Theatre Arts Production Company School,378,325,86.0%,68,68,100.0%
+10X237,10,14,"The Marie Curie School for Medicine, Nursing, and Health Professions",492,364,74.0%,87,87,100.0%
+10X243,10,15,West Bronx Academy for the Future,311,303,97.4%,64,64,100.0%
+10X264,10,15,Bronx Academy for Software Engineering (BASE),434,421,97.0%,72,72,100.0%
+10X268,10,11,Kingsbridge International High School,440,334,75.9%,s,s,s
+10X284,10,10,Bronx School of Law and Finance,386,232,60.1%,81,80,98.8%
+10X319,10,15,Providing Urban Learners Success In Education High School,183,175,95.6%,42,42,100.0%
+10X342,10,11,International School for Liberal Arts,373,190,50.9%,84,84,100.0%
+10X351,10,11,Bronx Collaborative High School,543,s,s,88,s,s
+10X353,10,11,World View High School,508,202,39.8%,75,75,100.0%
+10X368,10,11,In-Tech Academy (M.S. / High School 368),511,110,21.5%,87,87,100.0%
+10X374,10,15,Knowledge and Power Preparatory Academy International High School (Kappa),481,258,53.6%,108,108,100.0%
+10X397,10,10,English Language Learners and International Support Preparatory Academy (ELLIS),308,219,71.1%,s,s,s
+10X433,10,11,High School for Teaching and the Professions,405,239,59.0%,99,99,100.0%
+10X434,10,15,Belmont Preparatory High School,389,294,75.6%,98,98,100.0%
+10X437,10,15,Fordham High School for the Arts,339,339,100.0%,87,87,100.0%
+10X438,10,15,Fordham Leadership Academy,314,166,52.9%,57,57,100.0%
+10X439,10,15,Bronx High School for Law and Community Service,396,372,93.9%,78,78,100.0%
+10X440,10,11,DeWitt Clinton High School,1126,527,46.8%,225,225,100.0%
+10X442,10,11,"Celia Cruz Bronx High School of Music, The",412,180,43.7%,89,89,100.0%
+10X445,10,11,The Bronx High School of Science,2984,2442,81.8%,716,716,100.0%
+10X477,10,10,Marble Hill High School for International Studies,431,304,70.5%,92,92,100.0%
+10X524,10,15,Crotona International High School,265,202,76.2%,s,s,s
+10X546,10,10,Bronx Theatre High School,352,245,69.6%,57,57,100.0%
+10X549,10,11,Discovery High School,431,135,31.3%,86,86,100.0%
+10X565,10,15,High School for Energy and Technology,404,177,43.8%,79,79,100.0%
+10X696,10,11,High School of American Studies at Lehman College,400,399,99.8%,91,91,100.0%
+11X249,11,12,Bronx Health Sciences High School,293,279,95.2%,69,69,100.0%
+11X253,11,12,Bronx High School for Writing and Communication Arts,311,205,65.9%,64,64,100.0%
+11X265,11,12,Bronx Lab School,381,363,95.3%,65,65,100.0%
+11X270,11,12,Academy for Scholarship and Entrepreneurship: A College Board School,370,288,77.8%,80,80,100.0%
+11X275,11,12,High School of Computers and Technology,549,526,95.8%,110,110,100.0%
+11X288,11,13,Collegiate Institute for Math and Science,608,288,47.4%,150,150,100.0%
+11X290,11,12,Bronx Academy of Health Careers,383,354,92.4%,72,72,100.0%
+11X299,11,13,Astor Collegiate Academy,474,419,88.4%,77,77,100.0%
+11X418,11,13,Bronx High School for the Visual Arts,433,98,22.6%,78,78,100.0%
+11X455,11,12,Harry S Truman High School,1996,812,40.7%,423,423,100.0%
+11X508,11,13,Bronxdale High School,432,425,98.4%,84,84,100.0%
+11X509,11,13,High School of Language and Innovation,337,152,45.1%,s,s,s
+11X513,11,12,New World High School,389,235,60.4%,67,67,100.0%
+11X514,11,12,The Bronxwood Preparatory Academy,396,330,83.3%,s,s,s
+11X542,11,13,Pelham Preparatory Academy,507,364,71.8%,122,122,100.0%
+11X544,11,12,High School for Contemporary Arts,420,363,86.4%,99,99,100.0%
+11X545,11,12,Bronx Aerospace High School,311,261,83.9%,56,56,100.0%
+12X242,12,18,Mott Hall V,371,245,66.0%,89,89,100.0%
+12X248,12,17,"Metropolitan High School, The",399,361,90.5%,55,55,100.0%
+12X251,12,17,Explorations Academy H.S.,317,231,72.9%,68,68,100.0%
+12X267,12,16,Bronx Latin,339,166,49.0%,77,77,100.0%
+12X271,12,17,East Bronx Academy for the Future,404,245,60.6%,75,75,100.0%
+12X321,12,17,Crotona Academy High School,149,138,92.6%,41,41,100.0%
+12X372,12,17,Urban Assembly School for Wildlife Conservation,265,133,50.2%,57,57,100.0%
+12X388,12,18,Pan American International High School at Monroe,462,462,100.0%,84,84,100.0%
+12X446,12,17,Arturo A. Schomburg Satellite Academy Bronx,163,129,79.1%,32,32,100.0%
+12X478,12,18,The Cinema School,286,284,99.3%,61,61,100.0%
+12X479,12,16,Bronx Career and College Preparatory High School,262,169,64.5%,57,57,100.0%
+12X480,12,17,Bronx Regional High School,195,181,92.8%,27,27,100.0%
+12X511,12,17,Bronx Envision Academy,386,270,69.9%,64,64,100.0%
+12X521,12,18,The Metropolitan Soundview High School,406,397,97.8%,88,88,100.0%
+12X550,12,18,High School of World Cultures,432,283,65.5%,59,59,100.0%
+12X682,12,17,Fannie Lou Hamer Freedom High School,447,114,25.5%,77,77,100.0%
+12X684,12,15,Wings Academy,463,427,92.2%,53,53,100.0%
+13K265,13,35,Dr. Susan S. McKinney Secondary School of the Arts,244,s,s,39,39,100.0%
+13K350,13,33,Urban Assembly School for Music and Art,216,s,s,40,40,100.0%
+13K412,13,33,Brooklyn Community Arts & Media High School (BCAM),411,371,90.3%,71,70,98.6%
+13K419,13,33,"Science Skills Center High School for Science, Technology and the Creative Arts",533,268,50.3%,117,117,100.0%
+13K430,13,35,Brooklyn Technical High School,5802,4280,73.8%,1304,1304,100.0%
+13K439,13,33,Brooklyn International High School,348,171,49.1%,69,69,100.0%
+13K483,13,33,The Urban Assembly School for Law and Justice,447,396,88.6%,104,104,100.0%
+13K499,13,35,ACORN Community High School,195,99,50.8%,52,52,100.0%
+13K527,13,33,Urban Assembly Institute of Math and Science for Young Women,299,222,74.2%,62,62,100.0%
+13K553,13,36,Brooklyn Academy High School,135,119,88.1%,33,33,100.0%
+13K575,13,36,Bedford Stuyvesant Preparatory High School,97,75,77.3%,s,s,s
+13K595,13,36,Bedford Academy High School,346,176,50.9%,90,90,100.0%
+13K605,13,33,George Westinghouse Career and Technical Education High School,724,338,46.7%,102,102,100.0%
+13K616,13,33,Brooklyn High School for Leadership and Community Service,176,156,88.6%,s,s,s
+13K670,13,35,Benjamin Banneker Academy,806,468,58.1%,176,176,100.0%
+13K674,13,33,"City Polytechnic High School of Engineering, Architecture, and Technology",426,126,29.6%,84,84,100.0%
+14K071,14,33,Juan Morel Campos Secondary School,316,230,72.8%,56,56,100.0%
+14K449,14,34,"Brooklyn Latin School, The",670,511,76.3%,188,188,100.0%
+14K454,14,34,The Williamsburg High School of Art and Technology,244,100,41.0%,19,19,100.0%
+14K474,14,34,PROGRESS High School for Professional Careers,725,405,55.9%,177,177,100.0%
+14K477,14,34,East Williamsburg Scholars Academy,322,163,50.6%,90,90,100.0%
+14K478,14,34,"The High School for Enterprise, Business and Technology",849,734,86.5%,185,185,100.0%
+14K488,14,33,Brooklyn Preparatory High School,514,378,73.5%,115,115,100.0%
+14K558,14,33,Williamsburg High School for Architecture and Design,560,394,70.4%,129,129,100.0%
+14K561,14,33,Williamsburg Preparatory School,654,462,70.6%,141,141,100.0%
+14K586,14,34,Lyons Community School,319,109,34.2%,65,65,100.0%
+14K610,14,33,Automotive High School,372,254,68.3%,91,91,100.0%
+14K614,14,34,Young Women's Leadership School of Brooklyn,233,228,97.9%,65,65,100.0%
+14K685,14,33,El Puente Academy for Peace and Justice,217,155,71.4%,45,45,100.0%
+15K423,15,33,Brooklyn Frontiers High School,159,111,69.8%,s,s,s
+15K429,15,33,Digital Arts and Cinema Technology High School,202,s,s,26,26,100.0%
+15K448,15,39,Brooklyn Collaborative Studies,393,377,95.9%,70,70,100.0%
+15K462,15,39,John Jay School for Law,413,391,94.7%,65,65,100.0%
+15K463,15,39,Secondary School for Journalism,214,s,s,41,41,100.0%
+15K464,15,39,Park Slope Collegiate,415,306,73.7%,72,72,100.0%
+15K497,15,33,The Boerum Hill School for International Studies,247,232,93.9%,41,41,100.0%
+15K519,15,33,Cobble Hill School of American Studies,564,179,31.7%,121,121,100.0%
+15K529,15,39,West Brooklyn Community High School,200,160,80.0%,23,23,100.0%
+15K592,15,33,Khalil Gibran International Academy,272,185,68.0%,57,57,100.0%
+15K656,15,33,Brooklyn High School of the Arts,847,597,70.5%,167,167,100.0%
+15K667,15,38,Sunset Park High School,1214,882,72.7%,268,268,100.0%
+15K684,15,39,Millennium Brooklyn HS,665,175,26.3%,165,165,100.0%
+15K698,15,38,South Brooklyn Community High School,163,113,69.3%,s,s,s
+16K455,16,36,Boys and Girls High School,404,227,56.2%,63,63,100.0%
+16K498,16,41,Brooklyn High School for Law and Technology,592,359,60.6%,118,118,100.0%
+16K669,16,36,Research and Service High School,188,173,92.0%,38,38,100.0%
+16K688,16,36,The Brooklyn Academy of Global Finance,135,57,42.2%,39,39,100.0%
+16K765,16,36,Nelson Mandela High School,269,218,81.0%,61,61,100.0%
+17K122,17,36,Pathways in Technology Early College High School (P-Tech),583,478,82.0%,104,104,100.0%
+17K382,17,40,Academy for College Preparation and Career Exploration: A College Board School,269,163,60.6%,53,53,100.0%
+17K408,17,40,Academy of Hospitality and Tourism,195,s,s,s,s,s
+17K489,17,35,W.E.B. Dubois Academic High School,s,s,s,28,28,100.0%
+17K524,17,35,International High School at Prospect Heights,394,302,76.6%,79,79,100.0%
+17K528,17,35,The High School for Global Citizenship,s,s,s,42,42,100.0%
+17K531,17,40,"School for Human Rights, The",365,207,56.7%,108,108,100.0%
+17K537,17,40,High School for Youth and Community Development at Erasmus,463,334,72.1%,94,94,100.0%
+17K539,17,40,High School for Service & Learning at Erasmus,355,189,53.2%,94,94,100.0%
+17K543,17,40,"Science, Technology and Research Early College High School at Erasmus",338,247,73.1%,68,68,100.0%
+17K546,17,40,High School for Public Service: Heroes of Tomorrow,446,429,96.2%,109,109,100.0%
+17K547,17,35,Brooklyn Academy of Science and the Environment,375,209,55.7%,62,61,98.4%
+17K548,17,35,Brooklyn School for Music & Theatre,287,274,95.5%,64,64,100.0%
+17K568,17,41,Brownsville Academy High School,114,93,81.6%,s,s,s
+17K590,17,35,Medgar Evers College Preparatory School,886,429,48.4%,202,202,100.0%
+17K600,17,35,Clara Barton High School,1151,947,82.3%,225,225,100.0%
+17K646,17,35,Aspirations Diploma Plus High School,s,s,s,s,s,s
+17K745,17,40,Brooklyn Institute for Liberal Arts,391,352,90.0%,79,79,100.0%
+17K751,17,36,Academy for Health Careers,339,251,74.0%,68,68,100.0%
+18K563,18,45,It Takes a Village Academy,715,482,67.4%,139,139,100.0%
+18K566,18,46,Brooklyn Generation School,183,s,s,34,34,100.0%
+18K567,18,46,Brooklyn Theatre Arts High School,351,297,84.6%,70,70,100.0%
+18K569,18,45,Kurt Hahn Expeditionary Learning School,349,320,91.7%,83,83,100.0%
+18K576,18,46,Victory Collegiate High School,390,360,92.3%,93,93,100.0%
+18K578,18,46,Brooklyn Bridge Academy,168,142,84.5%,32,32,100.0%
+18K617,18,46,High School for Innovation in Advertising and Media,256,124,48.4%,39,39,100.0%
+18K629,18,45,Cultural Academy for the Arts and Sciences,313,123,39.3%,75,75,100.0%
+18K633,18,46,High School for Medical Professions,444,418,94.1%,102,102,100.0%
+18K635,18,42,Olympus Academy,182,s,s,48,48,100.0%
+18K637,18,46,Academy for Conservation and the Environment,279,s,s,60,60,100.0%
+18K642,18,46,Urban Action Academy,275,153,55.6%,51,51,100.0%
+18K673,18,41,East Brooklyn Community High School,190,148,77.9%,50,50,100.0%
+19K404,19,42,Academy for Young Writers,318,314,98.7%,61,61,100.0%
+19K409,19,37,East New York Family Academy,271,261,96.3%,46,46,100.0%
+19K422,19,42,Spring Creek Community School,229,147,64.2%,s,s,s
+19K502,19,42,FDNY - Captain Vernon A. Richard High School for Fire and Life Safety,305,199,65.2%,67,67,100.0%
+19K504,19,42,High School for Civil Rights,288,167,58.0%,56,56,100.0%
+19K507,19,42,Performing Arts and Technology High School,392,337,86.0%,85,83,97.6%
+19K510,19,42,World Academy for Total Community Health High School,239,198,82.8%,41,41,100.0%
+19K583,19,37,Multicultural High School,223,93,41.7%,s,s,s
+19K615,19,37,Transit Tech Career and Technical Education High School,682,654,95.9%,157,157,100.0%
+19K618,19,37,Academy of Innovative Technology,398,101,25.4%,83,83,100.0%
+19K639,19,37,Brooklyn Lab School,372,215,57.8%,61,61,100.0%
+19K659,19,37,Cypress Hills Collegiate Preparatory School,242,235,97.1%,48,48,100.0%
+19K660,19,37,W. H. Maxwell Career and Technical Education High School,359,235,65.5%,73,73,100.0%
+19K683,19,42,School for Classics High School,288,249,86.5%,64,64,100.0%
+19K764,19,37,The Urban Assembly School for Collaborative Healthcare,313,145,46.3%,72,71,98.6%
+20K445,20,43,New Utrecht High School,3485,2329,66.8%,728,728,100.0%
+20K485,20,43,High School of Telecommunication Arts and Technology,1243,1195,96.1%,298,298,100.0%
+20K490,20,43,Fort Hamilton High School,4484,1141,25.4%,964,964,100.0%
+20K505,20,44,Franklin Delano Roosevelt High School,3049,1723,56.5%,564,564,100.0%
+20K609,20,44,Urban Assembly School for Criminal Justice,325,320,98.5%,81,81,100.0%
+21K337,21,47,International High School at Lafayette,321,233,72.6%,58,58,100.0%
+21K344,21,47,Rachel Carson High School for Coastal Studies,614,570,92.8%,131,131,100.0%
+21K348,21,47,High School of Sports Management,243,62,25.5%,s,s,s
+21K410,21,47,Abraham Lincoln High School,1877,1315,70.1%,380,380,100.0%
+21K468,21,47,Kingsborough Early College School,363,342,94.2%,90,90,100.0%
+21K525,21,44,Edward R. Murrow High School,3670,2656,72.4%,794,794,100.0%
+21K540,21,47,John Dewey High School,2227,1968,88.4%,495,495,100.0%
+21K559,21,47,Life Academy High School for Film and Music,276,80,29.0%,s,s,s
+21K572,21,47,Expeditionary Learning School for Community Leaders,344,335,97.4%,66,65,98.5%
+21K620,21,48,William E. Grady Career and Technical Education High School,428,163,38.1%,105,105,100.0%
+21K690,21,47,Brooklyn Studio Secondary School,612,555,90.7%,141,141,100.0%
+21K728,21,47,Liberation Diploma Plus,177,169,95.5%,46,46,100.0%
+22K405,22,45,Midwood High School,3978,3250,81.7%,804,804,100.0%
+22K425,22,48,James Madison High School,3581,2290,63.9%,675,675,100.0%
+22K535,22,48,Leon M. Goldstein High School for the Sciences,1001,928,92.7%,248,248,100.0%
+22K555,22,39,Brooklyn College Academy,614,369,60.1%,141,141,100.0%
+22K611,22,48,Origins High School,418,190,45.5%,99,99,100.0%
+22K630,22,48,Professional Pathways High School,183,155,84.7%,33,33,100.0%
+23K493,23,41,Brooklyn Collegiate: A College Board School,257,242,94.2%,70,70,100.0%
+23K514,23,41,Frederick Douglass Academy VII High School,154,113,73.4%,s,s,s
+23K643,23,42,Brooklyn Democracy Academy,189,180,95.2%,s,s,s
+23K644,23,41,Eagle Academy for Young Men II,362,348,96.1%,84,84,100.0%
+23K647,23,42,Metropolitan Diploma Plus High School,180,154,85.6%,56,56,100.0%
+23K697,23,41,Teachers Preparatory High School,201,146,72.6%,48,48,100.0%
+24Q236,24,25,International High School for Health Sciences,s,s,s,52,52,100.0%
+24Q264,24,26,Academy of Finance and Enterprise,593,463,78.1%,123,123,100.0%
+24Q267,24,26,High School of Applied Communication,403,251,62.3%,87,87,100.0%
+24Q293,24,25,Civic Leadership Academy,533,319,59.8%,112,112,100.0%
+24Q296,24,25,Pan American International High School,447,231,51.7%,82,82,100.0%
+24Q299,24,26,Bard High School Early College Queens,617,610,98.9%,150,150,100.0%
+24Q455,24,25,Newtown High School,1903,649,34.1%,466,466,100.0%
+24Q485,24,30,Grover Cleveland High School,1699,s,s,272,272,100.0%
+24Q520,24,26,Middle College High School at LaGuardia Community College,449,445,99.1%,111,111,100.0%
+24Q530,24,26,International High School at LaGuardia Community College,499,396,79.4%,102,102,100.0%
+24Q550,24,21,High School for Arts and Business,787,432,54.9%,192,192,100.0%
+24Q560,24,26,"Robert F. Wagner, Jr. Secondary School for Arts and Technology",492,489,99.4%,113,113,100.0%
+24Q585,24,30,Maspeth High School,s,s,s,s,s,s
+24Q600,24,26,Queens Technical High School,1513,1095,72.4%,320,320,100.0%
+24Q610,24,26,Aviation Career & Technical Education High School,2064,2059,99.8%,454,454,100.0%
+24Q744,24,25,VOYAGES Preparatory,s,s,s,s,s,s
+25Q240,25,20,Veritas Academy,539,373,69.2%,103,103,100.0%
+25Q241,25,20,Queens High School for Language Studies,421,311,73.9%,99,99,100.0%
+25Q252,25,24,"Queens School of Inquiry, The",322,227,70.5%,67,67,100.0%
+25Q263,25,20,Flushing International High School,426,312,73.2%,80,80,100.0%
+25Q281,25,20,East-West School of International Studies,344,s,s,83,83,100.0%
+25Q285,25,19,World Journalism Preparatory: A College Board School,315,312,99.0%,69,69,100.0%
+25Q425,25,24,John Bowne High School,3522,1730,49.1%,704,704,100.0%
+25Q460,25,20,Flushing High School,1597,846,53.0%,256,256,100.0%
+25Q525,25,24,Townsend Harris High School,1141,873,76.5%,290,290,100.0%
+25Q540,25,20,Queens Academy High School,298,239,80.2%,s,s,s
+25Q670,25,24,Robert F. Kennedy Community High School,734,249,33.9%,148,147,99.3%
+25Q792,25,24,North Queens Community High School,156,s,s,s,s,s
+26Q315,26,23,Business Technology Early College High School,431,183,42.5%,79,79,100.0%
+26Q415,26,23,Benjamin N. Cardozo High School,3632,1837,50.6%,809,809,100.0%
+26Q430,26,20,Francis Lewis High School,4488,3338,74.4%,1056,1056,100.0%
+26Q435,26,23,Martin Van Buren High School,1139,1081,94.9%,236,236,100.0%
+26Q495,26,19,Bayside High School,2781,2773,99.7%,714,714,100.0%
+26Q566,26,23,"Queens High School of Teaching, Liberal Arts and the Sciences",1053,702,66.7%,228,228,100.0%
+27Q260,27,31,Frederick Douglass Academy VI High School,356,220,61.8%,62,62,100.0%
+27Q261,27,28,Voyages Prep - South Queens,249,211,84.7%,s,s,s
+27Q262,27,32,Channel View School for Research,521,482,92.5%,126,126,100.0%
+27Q302,27,31,"Queens High School for Information, Research, and Technology",434,250,57.6%,76,76,100.0%
+27Q308,27,32,Robert H. Goddard High School of Communication Arts and Technology,625,375,60.0%,147,147,100.0%
+27Q309,27,31,Academy of Medical Technology: A College Board School,405,363,89.6%,91,91,100.0%
+27Q314,27,28,Epic High School - South,343,225,65.6%,s,s,s
+27Q323,27,32,Scholars' Academy,681,305,44.8%,148,148,100.0%
+27Q324,27,32,Rockaway Park High School for Environmental Sustainability,302,241,79.8%,68,68,100.0%
+27Q334,27,28,Epic High School - North,399,134,33.6%,90,90,100.0%
+27Q351,27,32,Rockaway Collegiate High School,318,176,55.3%,64,64,100.0%
+27Q400,27,28,August Martin High School,309,264,85.4%,74,74,100.0%
+27Q475,27,28,Richmond Hill High School,1677,1401,83.5%,372,372,100.0%
+27Q480,27,32,John Adams High School,2211,1411,63.8%,384,384,100.0%
+27Q650,27,28,"High School for Construction Trades, Engineering and Architecture",1026,493,48.1%,246,246,100.0%
+28Q157,28,29,J.H.S. 157 Stephen A. Halsey,32,s,s,s,s,s
+28Q167,28,29,Metropolitan Expeditionary Learning School,453,450,99.3%,107,107,100.0%
+28Q284,28,27,York Early College Academy,357,172,48.2%,82,82,100.0%
+28Q310,28,24,Queens Collegiate: A College Board School,425,397,93.4%,97,97,100.0%
+28Q325,28,24,Hillside Arts & Letters Academy,465,352,75.7%,101,101,100.0%
+28Q328,28,24,High School for Community Leadership,467,340,72.8%,114,114,100.0%
+28Q338,28,24,Queens Satellite High School for Opportunity,153,s,s,s,s,s
+28Q350,28,24,Jamaica Gateway to the Sciences,516,375,72.7%,113,113,100.0%
+28Q440,28,29,Forest Hills High School,3788,2550,67.3%,969,969,100.0%
+28Q505,28,24,Hillcrest High School,3257,1944,59.7%,626,601,96.0%
+28Q620,28,24,Thomas A. Edison Career and Technical Education High School,2096,2035,97.1%,468,468,100.0%
+28Q680,28,24,Queens Gateway to Health Sciences Secondary School,407,403,99.0%,98,98,100.0%
+28Q686,28,29,Queens Metropolitan High School,1077,835,77.5%,238,238,100.0%
+28Q687,28,27,Queens High School for the Sciences at York College,471,436,92.6%,110,110,100.0%
+28Q690,28,28,High School for Law Enforcement and Public Safety,476,284,59.7%,102,102,100.0%
+28Q896,28,24,"Young Women's Leadership School, Queens",311,298,95.8%,73,73,100.0%
+29Q243,29,27,Institute for Health Professions at Cambria Heights,425,253,59.5%,109,107,98.2%
+29Q248,29,31,Queens Preparatory Academy,416,146,35.1%,86,86,100.0%
+29Q259,29,27,Pathways College Preparatory School: A College Board School,339,255,75.2%,75,75,100.0%
+29Q265,29,31,Excelsior Preparatory High School,466,355,76.2%,105,105,100.0%
+29Q272,29,31,George Washington Carver High School for the Sciences,459,405,88.2%,117,117,100.0%
+29Q283,29,31,Preparatory Academy for Writers: A College Board School,400,263,65.8%,99,99,100.0%
+29Q313,29,27,Benjamin Franklin High School for Finance & Information Technology,397,385,97.0%,80,80,100.0%
+29Q326,29,23,Cambria Heights Academy,361,330,91.4%,68,68,100.0%
+29Q327,29,27,Eagle Academy for Young Men III,273,137,50.2%,50,50,100.0%
+29Q492,29,27,"Mathematics, Science Research and Technology Magnet High School",402,326,81.1%,82,82,100.0%
+29Q498,29,27,Humanities & Arts Magnet High School,438,320,73.1%,95,95,100.0%
+30Q258,30,26,Energy Tech High School,501,398,79.4%,101,101,100.0%
+30Q286,30,22,"Young Women's Leadership School, Astoria",319,s,s,s,s,s
+30Q301,30,26,Academy for Careers in Television and Film,557,551,98.9%,136,136,100.0%
+30Q445,30,26,William Cullen Bryant High School,2305,1979,85.9%,464,464,100.0%
+30Q450,30,22,Long Island City High School,2177,s,s,s,s,s
+30Q501,30,26,Frank Sinatra School of the Arts High School,817,233,28.5%,217,217,100.0%
+30Q502,30,26,Information Technology High School,988,555,56.2%,206,206,100.0%
+30Q555,30,26,Newcomers High School,942,305,32.4%,187,187,100.0%
+30Q575,30,26,Academy of American Studies,1033,288,27.9%,239,239,100.0%
+30Q580,30,26,Baccalaureate School for Global Education,357,s,s,s,s,s
+31R028,31,49,The Eagle Academy for Young Men of Staten Island,41,s,s,s,s,s
+31R047,31,51,CSI High School for International Studies,494,355,71.9%,134,134,100.0%
+31R064,31,51,Gaynor McCown Expeditionary Learning School,424,385,0.908018887,105,105,1
+31R080,31,50,The Michael J. Petrides School,448,216,48.2%,101,101,100.0%
+31R440,31,50,New Dorp High School,2961,1089,36.8%,620,620,100.0%
+31R445,31,49,Port Richmond High School,1553,659,42.4%,305,305,100.0%
+31R450,31,49,Curtis High School,2486,815,32.8%,485,485,100.0%
+31R455,31,51,Tottenville High School,3779,2733,72.3%,935,935,100.0%
+31R460,31,50,Susan E. Wagner High School,3227,2028,62.8%,678,678,100.0%
+31R470,31,49,Concord High School,128,s,s,s,s,s
+31R600,31,49,Ralph R. McKee Career and Technical Education High School,760,210,27.6%,s,s,s
+31R605,31,50,Staten Island Technical High School,1314,1312,99.8%,313,313,100.0%
+32K168,32,37,The Brooklyn School for Math and Research,260,255,98.1%,s,s,s
+32K403,32,37,Academy for Environmental Leadership,256,197,77.0%,74,74,100.0%
+32K545,32,34,EBC High School for Public Service - Bushwick,488,430,88.1%,116,115,99.1%
+32K549,32,37,The Brooklyn School for Social Justice,365,241,66.0%,80,80,100.0%
+32K552,32,37,The Academy of Urban Planning and Engineering,192,132,68.8%,57,57,100.0%
+32K554,32,37,All City Leadership Secondary School,253,252,99.6%,62,62,100.0%
+32K556,32,34,Bushwick Leaders High School for Academic Excellence,277,123,44.4%,55,55,100.0%
+32K564,32,37,Bushwick Community High School,209,201,96.2%,s,s,s
+75K036,75,42,P.S. 36,31,s,s,s,s,s
+75K053,75,38,P.S. K053,179,12,6.7%,s,s,s
+75K077,75,39,P.S. K077,115,79,68.7%,15,11,73.3%
+75K141,75,40,P.S. K141,22,s,s,s,s,s
+75K368,75,36,P.S. 368,60,s,s,s,s,s
+75K369,75,33,P.S. K369 - Coy L. Cox School,118,91,77.1%,s,s,s
+75K370,75,48,P.S. 370,77,69,89.6%,s,s,s
+75K371,75,38,P.S. 371 - Lillian L. Rashkis,264,80,30.3%,18,18,100.0%
+75K373,75,36,P.S. 373 - Brooklyn Transition Center,434,s,s,s,s,s
+75K721,75,47,P.S. K721 - Brooklyn Occupational Training Center,443,19,4.3%,s,s,s
+75K753,75,35,P.S. K753 - School for Career Development,226,70,31.0%,s,s,s
+75K771,75,48,P.S. K771,21,20,95.2%,s,s,s
+75K811,75,48,P.S. K811 Connie Lekas School,271,171,63.1%,s,s,s
+75M035,75,3,P.S. 035,273,226,82.8%,24,24,100.0%
+75M079,75,9,P.S. M079 - Horan School,235,s,s,s,s,s
+75M094,75,1,P.S. M094,27,s,s,s,s,s
+75M138,75,9,P.S. 138,161,14,8.7%,s,s,s
+75M169,75,4,P.S. M169 - Robert F. Kennedy,s,s,s,s,s,s
+75M226,75,2,P.S. M226,111,24,21.6%,s,s,s
+75M721,75,3,P.S. M721 - Manhattan Occupational Training Center,154,12,7.8%,s,s,s
+75M751,75,2,Manhattan School for Career Development,171,45,26.3%,s,s,s
+75Q009,75,30,P.S. 009,s,s,s,s,s,s
+75Q023,75,23,P.S. Q023 @ Queens Children Center,167,71,42.5%,s,s,s
+75Q177,75,20,P.S. Q177,291,s,s,s,s,s
+75Q233,75,29,P.S. Q233,319,s,s,s,s,s
+75Q255,75,24,P.S. Q255,16,s,s,s,s,s
+75Q277,75,26,The Riverview School,47,s,s,s,s,s
+75Q721,75,25,John F. Kennedy Jr. School,492,15,3.0%,s,s,s
+75Q752,75,28,Queens Transition Center,365,113,31.0%,s,s,s
+75Q811,75,23,P.S. Q811,234,168,71.8%,s,s,s
+75Q993,75,23,P.S. Q993,164,13,7.9%,s,s,s
+75R025,75,51,South Richmond High School I.S./P.S. 25,272,s,s,s,s,s
+75R037,75,51,The David Marquis School of the Arts,65,s,s,s,s,s
+75R721,75,49,The Richard H. Hungerford School,382,s,s,s,s,s
+75X010,75,13,P.S. X010,10,s,s,s,s,s
+75X012,75,13,P.S. X012 Lewis and Clark School,219,s,s,s,s,s
+75X017,75,17,P.S. X017,11,s,s,s,s,s
+75X168,75,11,P.S. 168,17,s,s,s,s,s
+75X176,75,12,P.S. X176,302,s,s,s,s,s
+75X186,75,16,P186X Walter J. Damrosch School,12,10,83.3%,s,s,s
+75X188,75,15,P.S. X188,94,23,24.5%,s,s,s
+75X721,75,13,P.S. X721 - Stephen McSweeney School,519,36,6.9%,s,s,s
+75X723,75,12,P.S. 723,59,s,s,s,s,s
+75X754,75,8,J. M. Rapport School Career Development,491,153,31.2%,s,s,s
+75X811,75,17,P.S. X811,625,s,s,s,s,s

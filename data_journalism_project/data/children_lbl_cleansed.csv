@@ -1,0 +1,577 @@
+geo_type,geo_area_id,geo_area_name,borough_id,time_period,Children under 6 years with elevated blood lead levels (BLL) Number BLL >=5 碌g/dL,"Children under 6 years with elevated blood lead levels (BLL) Rate BLL>=10 碌g/dL per 1,000 tested","Children under 6 years with elevated blood lead levels (BLL) Rate BLL>=15 碌g/dL per 1,000 tested_NOTES"
+Borough,1,Bronx,1,2005,8245,9.2,
+Borough,1,Bronx,1,2006,7272,7.1,
+Borough,1,Bronx,1,2007,6174,6.4,
+Borough,1,Bronx,1,2008,4254,4.2,
+Borough,1,Bronx,1,2009,2742,4,
+Borough,1,Bronx,1,2010,2625,4.1,
+Borough,1,Bronx,1,2011,1996,3.3,
+Borough,1,Bronx,1,2012,1396,2.8,
+Borough,1,Bronx,1,2013,1312,3,
+Borough,1,Bronx,1,2014,1186,2.8,
+Borough,1,Bronx,1,2015,971,2.5,
+Borough,1,Bronx,1,2016,884,2.7,
+Borough,2,Brooklyn,2,2005,15015,12.2,
+Borough,2,Brooklyn,2,2006,14199,11.9,
+Borough,2,Brooklyn,2,2007,12622,9.6,
+Borough,2,Brooklyn,2,2008,8288,7.2,
+Borough,2,Brooklyn,2,2009,6719,6.2,
+Borough,2,Brooklyn,2,2010,6182,6,
+Borough,2,Brooklyn,2,2011,5483,5,
+Borough,2,Brooklyn,2,2012,4017,4,
+Borough,2,Brooklyn,2,2013,3370,3.4,
+Borough,2,Brooklyn,2,2014,2929,3.8,
+Borough,2,Brooklyn,2,2015,2458,3.9,
+Borough,2,Brooklyn,2,2016,2314,3.6,
+Borough,3,Manhattan,3,2005,4851,7.4,
+Borough,3,Manhattan,3,2006,4531,6,
+Borough,3,Manhattan,3,2007,3935,4.5,
+Borough,3,Manhattan,3,2008,2428,4.3,
+Borough,3,Manhattan,3,2009,1579,3,
+Borough,3,Manhattan,3,2010,1228,3,
+Borough,3,Manhattan,3,2011,992,2.5,
+Borough,3,Manhattan,3,2012,654,1.8,
+Borough,3,Manhattan,3,2013,622,1.7,
+Borough,3,Manhattan,3,2014,539,1.8,
+Borough,3,Manhattan,3,2015,399,1.6,
+Borough,3,Manhattan,3,2016,289,1.3,
+Borough,4,Queens,4,2005,8238,9.3,
+Borough,4,Queens,4,2006,7638,8.4,
+Borough,4,Queens,4,2007,6699,6.5,
+Borough,4,Queens,4,2008,4821,5.2,
+Borough,4,Queens,4,2009,3649,4.4,
+Borough,4,Queens,4,2010,3528,4.3,
+Borough,4,Queens,4,2011,2649,3.8,
+Borough,4,Queens,4,2012,1864,3.2,
+Borough,4,Queens,4,2013,1638,2.7,
+Borough,4,Queens,4,2014,1658,3,
+Borough,4,Queens,4,2015,1377,2.7,
+Borough,4,Queens,4,2016,1247,2.3,
+Borough,5,Staten Island,5,2005,990,7.7,
+Borough,5,Staten Island,5,2006,983,6.5,
+Borough,5,Staten Island,5,2007,1049,5.4,
+Borough,5,Staten Island,5,2008,611,4.6,
+Borough,5,Staten Island,5,2009,528,3.6,
+Borough,5,Staten Island,5,2010,388,2.8,
+Borough,5,Staten Island,5,2011,317,2.8,
+Borough,5,Staten Island,5,2012,246,3,
+Borough,5,Staten Island,5,2013,260,2,
+Borough,5,Staten Island,5,2014,238,2.2,
+Borough,5,Staten Island,5,2015,164,2,*Estimate is based on small numbers so should be interpreted with caution.
+Borough,5,Staten Island,5,2016,192,2.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2015,45,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2006,556,4.7,
+Neighborhood (UHF 42),305,Upper East Side,3,2008,118,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),407,Southwest Queens,4,2009,494,5.3,
+Neighborhood (UHF 42),409,Southeast Queens,4,2012,119,3.4,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2008,20423,5.5,
+Neighborhood (UHF 42),304,Upper West Side,3,2010,100,2.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2009,279,3.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),304,Upper West Side,3,2015,42,1.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2014,35,0.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),206,Borough Park,2,2010,1152,8.6,
+Neighborhood (UHF 42),408,Jamaica,4,2007,1052,6.8,
+Neighborhood (UHF 42),304,Upper West Side,3,2012,68,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),304,Upper West Side,3,2008,273,3.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2012,34,3.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2015,67,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2013,387,3.4,
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2012,11,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2007,188,6.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),304,Upper West Side,3,2007,405,4.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2014,368,3.6,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2006,700,6.2,
+Neighborhood (UHF 42),410,Rockaways,4,2013,81,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2005,832,12.9,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2015,42,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2010,59,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),102,Northeast Bronx,1,2010,255,4.2,
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2011,343,3.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2008,74,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2016,111,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2011,11437,3.9,
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2007,1093,8.2,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2014,97,1.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),102,Northeast Bronx,1,2014,115,3.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2008,327,6.5,
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2014,200,2.9,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2011,149,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2009,289,4.4,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2005,37344,9.9,
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2005,1035,8.8,
+Neighborhood (UHF 42),201,Greenpoint,2,2013,329,6.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2009,369,5.4,
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2013,28,0.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2009,486,4.6,
+Neighborhood (UHF 42),304,Upper West Side,3,2011,71,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2015,83,1.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2009,110,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),201,Greenpoint,2,2012,394,9.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2016,6,0.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2013,22,0.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),206,Borough Park,2,2008,1302,11.3,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2012,129,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2010,144,4.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2013,137,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2015,86,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2006,1337,8.6,
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2006,1441,7.4,
+Neighborhood (UHF 42),402,West Queens,4,2009,1035,5.4,
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2014,191,2.6,
+Neighborhood (UHF 42),501,Port Richmond,5,2013,105,3.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2012,330,3,
+Neighborhood (UHF 42),201,Greenpoint,2,2006,786,16.8,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2016,179,4,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2007,628,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2007,699,8.7,
+Neighborhood (UHF 42),410,Rockaways,4,2010,202,3.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2015,8,0,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),406,Fresh Meadows,4,2005,204,4.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2008,1237,6.7,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2009,272,3.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2016,131,4.3,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2010,701,7.1,
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2005,500,8.8,
+Neighborhood (UHF 42),301,Washington Heights,3,2010,297,3.3,
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2011,50,3.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),204,East New York,2,2015,193,4,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2006,455,4.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2009,158,3.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2011,129,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2015,212,3.3,
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2011,670,4.7,
+Neighborhood (UHF 42),501,Port Richmond,5,2011,112,5.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2011,116,2.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2013,120,1.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),201,Greenpoint,2,2007,864,19.9,
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2014,26,0.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2009,164,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2007,86,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2015,147,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2010,247,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2009,82,4.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),301,Washington Heights,3,2007,948,5.1,
+Neighborhood (UHF 42),305,Upper East Side,3,2005,256,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2014,66,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2007,652,5.8,
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2009,281,5.1,
+Neighborhood (UHF 42),206,Borough Park,2,2007,1566,11.5,
+Neighborhood (UHF 42),402,West Queens,4,2014,473,3.3,
+Neighborhood (UHF 42),204,East New York,2,2008,742,6.3,
+Neighborhood (UHF 42),407,Southwest Queens,4,2005,1213,11.9,
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2011,29,1.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2007,243,2.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),204,East New York,2,2011,426,4.4,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2007,1432,9.8,
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2013,201,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2013,11,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2013,309,4.5,
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2016,80,3.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2012,51,0.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2005,1534,12,
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2006,405,10,
+Neighborhood (UHF 42),206,Borough Park,2,2012,887,6,
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2011,227,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2012,162,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2015,217,2.5,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2008,147,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2008,55,0.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2011,65,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2007,1288,6.8,
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2005,1085,7.5,
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2010,52,1.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2010,262,3.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2013,13,0.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2007,414,8,
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2012,260,2.5,
+Neighborhood (UHF 42),410,Rockaways,4,2011,128,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2006,530,6.8,
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2007,628,6.7,
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2012,148,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),304,Upper West Side,3,2009,180,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2010,241,2.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2012,529,4,
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2005,153,6.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2010,994,6.5,
+Neighborhood (UHF 42),201,Greenpoint,2,2016,216,7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2006,1251,5.4,
+Neighborhood (UHF 42),301,Washington Heights,3,2009,342,3.5,
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2009,502,4.2,
+Neighborhood (UHF 42),501,Port Richmond,5,2016,65,3.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2007,424,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2009,65,4.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2009,85,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2016,81,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2013,155,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2010,13951,4.6,
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2011,129,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2005,1697,10.1,
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2014,37,5.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2016,188,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2013,121,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2007,187,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2007,992,6.2,
+Citywide,1,New York City,,2009,15224,4.7,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2005,701,6.2,
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2006,550,4.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2006,154,5.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2013,183,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2006,190,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2007,243,4.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2006,770,11.3,
+Neighborhood (UHF 42),402,West Queens,4,2011,764,5,
+Neighborhood (UHF 42),503,Willowbrook,5,2007,88,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),406,Fresh Meadows,4,2006,218,4.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2014,262,3.9,
+Neighborhood (UHF 42),407,Southwest Queens,4,2016,216,3.7,
+Neighborhood (UHF 42),402,West Queens,4,2008,1448,6.6,
+Neighborhood (UHF 42),305,Upper East Side,3,2016,14,0,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2008,597,7,
+Neighborhood (UHF 42),201,Greenpoint,2,2009,597,14.6,
+Neighborhood (UHF 42),205,Sunset Park,2,2014,161,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),501,Port Richmond,5,2007,337,9.7,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2009,131,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),102,Northeast Bronx,1,2012,130,3.5,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2005,198,8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2005,892,9.8,
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2015,10,0.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2016,5,0.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2014,281,3.8,
+Neighborhood (UHF 42),407,Southwest Queens,4,2010,459,4.9,
+Neighborhood (UHF 42),204,East New York,2,2006,1595,16.1,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2012,417,4.5,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2010,93,2.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2014,119,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2016,126,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2010,249,3.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2005,1544,10.1,
+Neighborhood (UHF 42),204,East New York,2,2009,504,5.1,
+Neighborhood (UHF 42),303,East Harlem,3,2012,63,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2016,236,3.5,
+Neighborhood (UHF 42),301,Washington Heights,3,2013,163,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2007,479,4.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2006,2121,12.5,
+Neighborhood (UHF 42),304,Upper West Side,3,2013,62,0.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2010,284,7.3,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2011,192,1.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2015,163,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2007,151,3.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2009,647,5.3,
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2014,144,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2012,8179,3.2,
+Neighborhood (UHF 42),303,East Harlem,3,2006,762,4.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2010,40,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2016,30,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2008,65,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2016,28,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),406,Fresh Meadows,4,2016,29,0.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2007,662,7,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2009,239,2.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2005,167,3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2012,163,4.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),304,Upper West Side,3,2006,422,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2012,37,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2010,172,3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2008,484,3.6,
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2013,102,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2013,37,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2012,82,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2006,776,6.7,
+Neighborhood (UHF 42),303,East Harlem,3,2008,271,4.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2014,167,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2014,59,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2013,111,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2015,13,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2012,24,0.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2012,97,3.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2006,66,6.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2005,209,9.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2009,457,2.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2010,37,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2005,1331,10.4,
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2006,681,10.1,
+Neighborhood (UHF 42),206,Borough Park,2,2011,1061,7.1,
+Neighborhood (UHF 42),303,East Harlem,3,2013,60,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2014,222,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2007,863,7.8,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2011,61,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2015,115,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2010,516,4.4,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2015,84,1.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2006,2336,9.7,
+Neighborhood (UHF 42),301,Washington Heights,3,2014,144,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2015,28,0,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2009,63,3.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2007,617,6.7,
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2006,182,3.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2008,474,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2006,1146,9.7,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2013,30,1.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2015,264,3.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2012,348,4,
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2010,405,4.3,
+Neighborhood (UHF 42),301,Washington Heights,3,2012,179,2.3,
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2014,24,0.6,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2013,7204,2.8,
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2009,291,3.5,
+Neighborhood (UHF 42),407,Southwest Queens,4,2014,238,4.6,
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2011,311,3.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2015,15,2.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2013,459,3.1,
+Citywide,1,New York City,,2016,4928,2.7,
+Neighborhood (UHF 42),304,Upper West Side,3,2014,54,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2013,95,3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2007,437,5.6,
+Neighborhood (UHF 42),204,East New York,2,2016,158,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2015,41,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2013,59,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2008,476,5.7,
+Citywide,1,New York City,,2007,30493,7.2,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2009,274,3.6,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2013,121,3.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2015,139,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2016,13,0.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2009,799,5.7,
+Neighborhood (UHF 42),408,Jamaica,4,2011,452,4.2,
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2012,450,2.6,
+Neighborhood (UHF 42),206,Borough Park,2,2016,575,5.2,
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2010,48,1.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2014,13,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),406,Fresh Meadows,4,2011,67,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2005,2072,15.3,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2014,45,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2014,88,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2016,23,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2011,452,5.5,
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2008,1094,6.8,
+Citywide,1,New York City,,2006,34629,8.8,
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2006,2442,14.4,
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2011,288,3.6,
+Neighborhood (UHF 42),205,Sunset Park,2,2006,737,7.7,
+Neighborhood (UHF 42),305,Upper East Side,3,2015,28,0.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2010,788,5.6,
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2009,223,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2015,265,3.6,
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2008,666,3.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2012,27,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2007,186,7.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),201,Greenpoint,2,2008,657,13.5,
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2011,189,5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2010,518,5.2,
+Neighborhood (UHF 42),501,Port Richmond,5,2009,164,7.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),201,Greenpoint,2,2005,869,14,
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2012,217,3.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2008,502,5.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2005,227,5.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2006,1458,9,
+Neighborhood (UHF 42),501,Port Richmond,5,2014,100,5.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),406,Fresh Meadows,4,2007,216,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2005,94,5.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2009,210,3.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),501,Port Richmond,5,2015,56,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2016,19,1.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2005,852,10.7,
+Neighborhood (UHF 42),201,Greenpoint,2,2014,229,5.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2010,348,3.9,
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2015,132,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),102,Northeast Bronx,1,2008,420,4.5,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2016,88,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2011,20,0.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2010,355,6,
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2012,273,2.8,
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2016,243,2.8,
+Neighborhood (UHF 42),301,Washington Heights,3,2008,625,5.6,
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2006,828,5.5,
+Neighborhood (UHF 42),205,Sunset Park,2,2009,432,5.4,
+Neighborhood (UHF 42),204,East New York,2,2013,239,3.1,
+Neighborhood (UHF 42),409,Southeast Queens,4,2014,97,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),206,Borough Park,2,2015,591,5,
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2010,278,3.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2005,108,1.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2016,223,2.9,
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2010,74,4.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2016,50,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2008,728,5.8,
+Neighborhood (UHF 42),407,Southwest Queens,4,2008,626,6.2,
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2010,51,3.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2008,258,7.2,
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2009,834,4.5,
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2009,289,5.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2010,47,0.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2012,477,4.7,
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2014,88,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2010,629,5.5,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2015,108,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),204,East New York,2,2010,434,4.5,
+Neighborhood (UHF 42),501,Port Richmond,5,2006,293,10.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2008,357,4.3,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2008,925,7.2,
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2014,167,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2014,304,3.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),102,Northeast Bronx,1,2005,826,7.5,
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2005,643,6.7,
+Neighborhood (UHF 42),206,Borough Park,2,2005,1537,13,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2011,530,5.4,
+Neighborhood (UHF 42),409,Southeast Queens,4,2005,641,7.7,
+Neighborhood (UHF 42),301,Washington Heights,3,2016,73,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2013,154,1.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2015,200,3.7,
+Neighborhood (UHF 42),503,Willowbrook,5,2012,27,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2013,357,3.6,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2006,714,5.7,
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2010,435,3.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2015,361,3,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2016,74,1.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2011,41,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2011,38,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2012,193,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),501,Port Richmond,5,2010,146,5.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2012,225,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2015,22,0.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2012,85,3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2013,327,3.3,
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2013,169,3.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2008,115,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),206,Borough Park,2,2006,1660,13.2,
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2016,137,3.3,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2008,312,3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2008,405,6.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2007,525,3.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2016,345,2.7,
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2008,425,4.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2006,248,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2009,765,7.5,
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2013,159,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2008,324,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),309,Union Square - Lower East Side,3,2007,527,3.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),205,Sunset Park,2,2011,332,3,*Estimate is based on small numbers so should be interpreted with caution.
+Citywide,1,New York City,,2015,5371,2.9,
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2014,136,2.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2006,188,6.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2015,48,1.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2007,2132,10.1,
+Neighborhood (UHF 42),303,East Harlem,3,2016,26,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2015,77,3.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2012,94,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2008,809,4,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2014,33,1.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),501,Port Richmond,5,2005,293,16,
+Neighborhood (UHF 42),408,Jamaica,4,2010,563,4.5,
+Neighborhood (UHF 42),204,East New York,2,2014,220,3.9,
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2015,169,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2006,179,6.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2011,241,5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2014,16,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2008,951,5.5,
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2012,114,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),201,Greenpoint,2,2011,526,10.6,
+Neighborhood (UHF 42),407,Southwest Queens,4,2012,262,3.8,
+Neighborhood (UHF 42),408,Jamaica,4,2015,236,3.5,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2013,60,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2011,37,0.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2005,754,8.6,
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2013,212,2.7,
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2011,727,4.5,
+Neighborhood (UHF 42),503,Willowbrook,5,2006,96,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2011,338,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2011,380,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2011,198,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2014,96,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),206,Borough Park,2,2013,780,4.5,
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2009,89,2.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),407,Southwest Queens,4,2007,993,12.3,
+Neighborhood (UHF 42),201,Greenpoint,2,2010,519,11.5,
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2007,699,4.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2005,474,6.5,
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2005,735,6.2,
+Neighborhood (UHF 42),501,Port Richmond,5,2008,218,9.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2007,82,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),308,Greenwich Village - SoHo,3,2016,15,0.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2010,294,3.6,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2012,33,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2006,422,8.3,
+Neighborhood (UHF 42),208,Canarsie - Flatlands,2,2008,392,3.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),301,Washington Heights,3,2011,269,3.1,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2007,632,6.8,
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2008,77,3.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2007,1785,7,
+Neighborhood (UHF 42),201,Greenpoint,2,2015,215,6.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2010,74,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2016,69,1.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2012,17,0.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),504,South Beach - Tottenville,5,2009,85,0.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2016,14,1.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),407,Southwest Queens,4,2006,1034,13.1,
+Neighborhood (UHF 42),101,Kingsbridge - Riverdale,1,2015,26,3.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2006,919,7.9,
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2010,384,3.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2006,647,5.1,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2012,54,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),204,East New York,2,2012,279,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),107,Hunts Point - Mott Haven,1,2014,141,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2005,103,1.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2016,130,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2006,80,2.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),310,Lower Manhattan,3,2009,32,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2011,33,1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),303,East Harlem,3,2005,778,8.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),405,Ridgewood - Forest Hills,4,2012,193,3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),302,Central Harlem - Morningside Heights,3,2011,192,3.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2009,555,4.5,
+Neighborhood (UHF 42),206,Borough Park,2,2014,702,5.9,
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2005,2528,13.6,
+Neighborhood (UHF 42),204,East New York,2,2005,1767,14.5,
+Neighborhood (UHF 42),301,Washington Heights,3,2005,1089,10.5,
+Citywide,1,New York City,,2014,6550,3,
+Neighborhood (UHF 42),410,Rockaways,4,2007,326,4.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),407,Southwest Queens,4,2015,220,3.9,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2011,186,3.4,
+Neighborhood (UHF 42),310,Lower Manhattan,3,2014,9,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2010,145,2.2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2007,1179,6.6,
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2016,246,5.4,
+Neighborhood (UHF 42),404,Bayside - Little Neck,4,2014,9,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),502,Stapleton - St. George,5,2005,421,11.7,
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2005,2214,12.7,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2015,96,2.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2008,129,7.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),410,Rockaways,4,2008,228,3.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),301,Washington Heights,3,2015,101,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),409,Southeast Queens,4,2016,76,2.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),503,Willowbrook,5,2015,9,0.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),501,Port Richmond,5,2012,98,5.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),105,Crotona -Tremont,1,2008,746,4.6,
+Neighborhood (UHF 42),204,East New York,2,2007,1378,10.9,
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2016,158,1.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),401,Long Island City - Astoria,4,2016,91,1.7,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),408,Jamaica,4,2013,287,3.5,
+Neighborhood (UHF 42),304,Upper West Side,3,2005,427,4.8,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),402,West Queens,4,2005,2267,12.3,
+Neighborhood (UHF 42),408,Jamaica,4,2014,282,4,
+Neighborhood (UHF 42),207,East Flatbush - Flatbush,2,2007,1852,10.2,
+Neighborhood (UHF 42),206,Borough Park,2,2009,1223,9.6,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2006,1837,13.4,
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2011,453,5.4,
+Neighborhood (UHF 42),202,Downtown - Heights - Slope,2,2009,378,4.4,
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2013,315,3.5,
+Neighborhood (UHF 42),407,Southwest Queens,4,2011,371,4.6,
+Neighborhood (UHF 42),102,Northeast Bronx,1,2016,83,3.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),211,Williamsburg - Bushwick,2,2014,271,4,
+Neighborhood (UHF 42),306,Chelsea - Clinton,3,2013,38,1.1,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),203,Bedford Stuyvesant - Crown Heights,2,2010,801,5.1,
+Neighborhood (UHF 42),406,Fresh Meadows,4,2008,147,2.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),304,Upper West Side,3,2016,26,1.3,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),305,Upper East Side,3,2013,39,0.4,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),403,Flushing - Clearview,4,2005,458,8.3,
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2009,608,6,
+Neighborhood (UHF 42),310,Lower Manhattan,3,2008,42,1.9,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),209,Bensonhurst - Bay Ridge,2,2015,147,4.8,
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2012,374,3.4,
+Neighborhood (UHF 42),210,Coney Island - Sheepshead Bay,2,2015,223,5.2,
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2009,69,2,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),307,Gramercy Park - Murray Hill,3,2013,28,1.5,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),104,Pelham - Throgs Neck,1,2005,1314,7.4,
+Neighborhood (UHF 42),301,Washington Heights,3,2006,1115,9.3,
+Neighborhood (UHF 42),407,Southwest Queens,4,2013,239,3.4,
+Neighborhood (UHF 42),106,High Bridge - Morrisania,1,2013,281,2.6,*Estimate is based on small numbers so should be interpreted with caution.
+Neighborhood (UHF 42),103,Fordham - Bronx Pk,1,2016,209,3.9,
