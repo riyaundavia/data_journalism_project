@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Lead Levels Over Time</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  {% include 'navbar.html' %}
+
+  <div class="container mt-4">
+    <h2>Blood Lead Levels (BLL) in Children Under 6 (2005–2016)</h2>
+
+    <canvas id="bllChart" width="800" height="400"></canvas>
+
+    <form class="mt-4" method="get" action="/micro">
+      <label for="year">Select a year:</label>
+      <select class="form-select w-auto d-inline-block" id="year" name="year">
+        {% for y in years %}
+          <option value="{{ y }}">{{ y }}</option>
+        {% endfor %}
+      </select>
+      <button type="submit" class="btn btn-primary ms-2">Explore</button>
+    </form>
+  </div>
+
+  <script>
+    const labels = [2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016];
+
+    const data = {
+      "Bronx": [8245,7272,6174,4254,2742,2625,1996,1396,1312,1186,971,884],
+      "Brooklyn": [15015,14199,12622,8288,6719,6182,5483,4017,3370,2929,2458,2314],
+      "Manhattan": [4851,4531,3935,2428,1579,1228,992,654,622,539,399,289],
+      "Queens": [8238,7638,6699,4821,3649,3528,2649,1864,1638,1658,1377,1247],
+      "Staten Island": [990,983,1049,611,528,388,317,246,260,238,164,192]
+    };
+
+    const colorMap = {
+      "Bronx": "#d73027",
+      "Brooklyn": "#fc8d59",
+      "Manhattan": "#91bfdb",
+      "Queens": "#4575b4",
+      "Staten Island": "#999999"
+    };
+
+    const datasets = Object.entries(data).map(([borough, values]) => {
+      return {
+        label: borough,
+        data: values,
+        fill: false,
+        borderColor: colorMap[borough],
+        tension: 0.2
+      };
+    });
+
+    new Chart(document.getElementById('bllChart'), {
+      type: 'line',
+      data: {
+        labels: labels,
+        datasets: datasets
+      },
+      options: {
+        responsive: true,
+        plugins: {
+          title: {
+            display: true,
+            text: 'BLL ≥ 5µg/dL by Borough'
+          }
+        },
+        scales: {
+          y: {
+            beginAtZero: true,
+            title: {
+              display: true,
+              text: 'Number of Children'
+            }
+          },
+          x: {
+            title: {
+              display: true,
+              text: 'Year'
+            }
+          }
+        }
+      }
+    });
+  </script>
+
+  {% include 'footer.html' %}
+</body>
+</html>
