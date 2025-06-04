@@ -1,92 +1,89 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
-  <title>Lead Levels Over Time</title>
+  <title>Blood Lead Levels Macro View</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/css/bootstrap.min.css" rel="stylesheet">
-  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+  <style>
+    .line { stroke-width: 2; fill: none; transition: stroke-width 0.2s ease; }
+    .line:hover { stroke-width: 4; }
+    .Bronx { stroke: #d73027; }
+    .Brooklyn { stroke: #fc8d59; }
+    .Manhattan { stroke: #91bfdb; }
+    .Queens { stroke: #4575b4; }
+    .Staten_Island { stroke: #999999; }
+    .label { font-size: 13px; font-family: sans-serif; }
+  </style>
 </head>
 <body>
   {% include 'navbar.html' %}
 
   <div class="container mt-4">
-    <h2>Blood Lead Levels (BLL) in Children Under 6 (2005–2016)</h2>
+    <h2 style="text-align: center;">BLL in NYC Children Under 6 (2005–2016)</h2>
 
-    <canvas id="bllChart" width="800" height="400"></canvas>
+    <svg viewBox="0 0 600 500" width="100%" height="auto">
+      <!-- axes -->
+      <line x1="60" y1="450" x2="580" y2="450" stroke="black" />
+      <line x1="60" y1="50" x2="60" y2="450" stroke="black" />
 
-    <form class="mt-4" method="get" action="/micro">
-      <label for="year">Select a year:</label>
-      <select class="form-select w-auto d-inline-block" id="year" name="year">
+      <!-- y-axis ticks -->
+      {% for val in range(y_min, y_max+1, 2000) %}
+        {% set y = 450 - ((val - y_min) * 400 / (y_max - y_min)) %}
+        <line x1="55" x2="60" y1="{{ y }}" y2="{{ y }}" stroke="black"/>
+        <text x="50" y="{{ y+5 }}" class="label" text-anchor="end">{{ val }}</text>
+      {% endfor %}
+
+      <!-- x-axis ticks and labels -->
+      {% for year in years %}
+        {% set x = 60 + loop.index0 * (500 / (years|length - 1)) %}
+        <line x1="{{ x }}" x2="{{ x }}" y1="450" y2="455" stroke="black"/>
+        <text x="{{ x }}" y="470" class="label" text-anchor="middle">{{ year }}</text>
+      {% endfor %}
+
+      <!-- borough lines -->
+      {% for borough, endpoints in borough_endpoints.items() %}
+        <g class="line {{ borough.replace(' ', '_') }}">
+          {% for pair in endpoints %}
+            {% set x1 = 60 + loop.index0 * (500 / (years|length - 1)) %}
+            {% set x2 = 60 + (loop.index0 + 1) * (500 / (years|length - 1)) %}
+            {% set y1 = 450 - ((pair[0] - y_min) * 400 / (y_max - y_min)) %}
+            {% set y2 = 450 - ((pair[1] - y_min) * 400 / (y_max - y_min)) %}
+            <line x1="{{ x1 }}" y1="{{ y1 }}" x2="{{ x2 }}" y2="{{ y2 }}" />
+          {% endfor %}
+        </g>
+      {% endfor %}
+      <rect x="400" y="55" width="180" height="100" fill="white" stroke="black" rx="5" ry="5"/>
+
+      <text x="490" y="70" font-size="12" fill="gray" text-anchor="middle">Legend</text>
+      <text x="490" y="90" font-size="11" fill="#d73027" text-anchor="middle">━ Bronx</text>
+      <text x="490" y="105" font-size="11" fill="#fc8d59" text-anchor="middle">━ Brooklyn</text>
+      <text x="490" y="120" font-size="11" fill="#91bfdb" text-anchor="middle">━ Manhattan</text>
+      <text x="490" y="135" font-size="11" fill="#4575b4" text-anchor="middle">━ Queens</text>
+      <text x="490" y="150" font-size="11" fill="#999999" text-anchor="middle">━ Staten Island</text>
+    </svg>
+
+    <!-- dropdown -->
+    <form class="mt-4 text-center" method="get" action="/micro">
+      <label for="year">Select a year to explore:</label>
+      <select class="form-select d-inline-block w-auto" id="year" name="year">
         {% for y in years %}
           <option value="{{ y }}">{{ y }}</option>
         {% endfor %}
       </select>
       <button type="submit" class="btn btn-primary ms-2">Explore</button>
     </form>
+
   </div>
-
-  <script>
-    const labels = [2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016];
-
-    const data = {
-      "Bronx": [8245,7272,6174,4254,2742,2625,1996,1396,1312,1186,971,884],
-      "Brooklyn": [15015,14199,12622,8288,6719,6182,5483,4017,3370,2929,2458,2314],
-      "Manhattan": [4851,4531,3935,2428,1579,1228,992,654,622,539,399,289],
-      "Queens": [8238,7638,6699,4821,3649,3528,2649,1864,1638,1658,1377,1247],
-      "Staten Island": [990,983,1049,611,528,388,317,246,260,238,164,192]
-    };
-
-    const colorMap = {
-      "Bronx": "#d73027",
-      "Brooklyn": "#fc8d59",
-      "Manhattan": "#91bfdb",
-      "Queens": "#4575b4",
-      "Staten Island": "#999999"
-    };
-
-    const datasets = Object.entries(data).map(([borough, values]) => {
-      return {
-        label: borough,
-        data: values,
-        fill: false,
-        borderColor: colorMap[borough],
-        tension: 0.2
-      };
-    });
-
-    new Chart(document.getElementById('bllChart'), {
-      type: 'line',
-      data: {
-        labels: labels,
-        datasets: datasets
-      },
-      options: {
-        responsive: true,
-        plugins: {
-          title: {
-            display: true,
-            text: 'BLL ≥ 5µg/dL by Borough'
-          }
-        },
-        scales: {
-          y: {
-            beginAtZero: true,
-            title: {
-              display: true,
-              text: 'Number of Children'
-            }
-          },
-          x: {
-            title: {
-              display: true,
-              text: 'Year'
-            }
-          }
-        }
-      }
-    });
-  </script>
-
+  <div class="container mt-5">
+    <h2>3 Key Takeaways</h2>
+    <ul>
+      <li><strong>Overall Decline</strong> From 2005 to 2016, all 5 boroughs experienced a clear decline in cases of elevated BLL in children under 6, suggesting the implementation of effective public health measures.</li>
+      <li><strong>Borough Inequity</strong> The Bronx and Brooklyn consistently show higher exposure levels. Brooklyn and The Bronx are the two boroughs with the highest poverty rates, thus the data relays a correlation between SES and likelihood of lead poisoning.</li>
+      <li><strong>Still More to Do</strong> <li> Unfortunately, there are still places in NYC with elevated BLLs in the thousands. The city must act to stop this pressing issue. </li>
+    </ul>
+    <p>The data shows a relationship between borough and lead levels in children. In Manhattan and Staten Island, the boroughs with the highest median incomes in 2017, the lead levels were consistently the lowest. 
+      In The Bronx, Brooklyn and Queens, the opposite is true. The city has put various measures in place to promote lead testing in children and prevent people from living in lead paint - laden homes, which has been quite effective. 
+     This data is also affected by a number of other factors, such as the number of people willingly submitting their children to blood testing and access to medical centers in any given neighborhood.   </p>
+  </div>
   {% include 'footer.html' %}
 </body>
 </html>

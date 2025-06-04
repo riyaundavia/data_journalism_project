@@ -3,7 +3,7 @@ from flask import render_template
 from flask import request
 import json
 import os
-DATA_PATH = os.path.join(os.path.dirname(__file__), 'data', 'blood_lead_levels_by_borough.json')
+DATA_PATH = os.path.join(os.path.dirname(__file__), 'data', 'data.json')
 
 app = Flask(__name__, static_url_path='', static_folder='static')
 
@@ -17,53 +17,64 @@ def about():
 
 @app.route('/macro')
 def macro():
-    with open(DATA_PATH) as f:
+    import os
+
+    json_path = os.path.join(os.path.dirname(__file__), "data", "data.json")
+    with open(json_path) as f:
         data = json.load(f)
 
-    # Build a list of years
-    years = list(next(iter(data.values())).keys())
-    years = sorted(map(int, years))
+    years = sorted(map(int, next(iter(data.values())).keys()))
 
-    return render_template("macro.html", data=data, years=years)
+    def make_endpoints(values):
+        return [(values[i], values[i+1]) for i in range(len(values)-1)]
 
-import os
+    borough_endpoints = {}
+    for borough, year_dict in data.items():
+        sorted_vals = [year_dict[str(y)]['numberBll5'] for y in years]
+        borough_endpoints[borough] = make_endpoints(sorted_vals)
+
+    all_vals = [v['numberBll5'] for d in data.values() for v in d.values()]
+    y_max = max(all_vals)
+    y_min = 0
+
+    return render_template(
+        "macro.html",
+        years=years,
+        borough_endpoints=borough_endpoints,
+        y_max=y_max,
+        y_min=y_min
+    )
 
 @app.route('/micro')
 def micro():
-    year = request.args.get("year", type=int)
-    if not year:
-        return "Missing year", 400
-
-    # Use path relative to this file's location
-    json_path = os.path.join(os.path.dirname(__file__), "data", "blood_lead_levels_by_borough.json")
+    year = request.args.get('year', '2010')
+    json_path = os.path.join(os.path.dirname(__file__), "data", "data.json")
     with open(json_path) as f:
-        full_data = json.load(f)
+        data = json.load(f)
 
-    year_data = {}
-    for borough, yearly in full_data.items():
-        if str(year) in yearly:
-            year_data[borough] = yearly[str(year)]["numberBll5"]
-
-    values = list(year_data.values())
-    min_val = min(values)
-    max_val = max(values)
-
-    def compute_lightness(val):
-        percent = (val - min_val) / (max_val - min_val) if max_val != min_val else 0
-        return round(85 - percent * 55)
-
-    borough_lightness = {
-        "Bronx": compute_lightness(year_data.get("Bronx", min_val)),
-        "Brooklyn": compute_lightness(year_data.get("Brooklyn", min_val)),
-        "Manhattan": compute_lightness(year_data.get("Manhattan", min_val)),
-        "Queens": compute_lightness(year_data.get("Queens", min_val)),
-        "Staten Island": compute_lightness(year_data.get("Staten Island", min_val))
+    # Extract values for the selected year only
+    values = {
+        borough: data[borough][year]['numberBll5']
+        for borough in data if year in data[borough]
     }
 
-    legend_values = [round(min_val + (max_val - min_val) / 9 * i) for i in range(10)]
+    min_val = min(values.values())
+    max_val = max(values.values())
+
+    # Scale lightness between 35% (dark red) to 85% (light pink)
+    def scale_lightness(val):
+        if max_val == min_val:
+            return 60  # default mid-lightness
+        norm = (val - min_val) / (max_val - min_val)
+        return round(85 - 50 * norm, 1)  # inverse because lighter = lower numbers
+
+    borough_lightness = {borough: scale_lightness(val) for borough, val in values.items()}
+
+    # Also create legend values
+    legend_values = [min_val + i * (max_val - min_val) / 9 for i in range(10)]
 
     return render_template(
-        "micro.html",
+        'micro.html',  # use your actual filename
         year=year,
         borough_lightness=borough_lightness,
         legend_values=legend_values
