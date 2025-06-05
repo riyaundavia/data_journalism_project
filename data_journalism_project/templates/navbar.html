@@ -13,8 +13,15 @@
         <li class="nav-item">
           <a class="nav-link" href="/macro">Infographic</a>
         </li>
-        <li class="nav-item">
-          <a class="nav-link" href="/micro?year=2010">Map Graphics (2005-2016)</a>
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+            Map Graphics (2005–2016)
+          </a>
+          <ul class="dropdown-menu">
+            {% for year in range(2005, 2017) %}
+              <li><a class="dropdown-item" href="/micro?year={{ year }}">{{ year }}</a></li>
+            {% endfor %}
+          </ul>
         </li>
       </ul>
     </div>

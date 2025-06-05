@@ -3,7 +3,18 @@ from flask import render_template
 from flask import request
 import json
 import os
-DATA_PATH = os.path.join(os.path.dirname(__file__), 'data', 'data.json')
+json_path = os.path.join(os.path.dirname(__file__), 'data', 'data.json')
+
+with open(json_path) as f:
+    all_bll_data = json.load(f)
+
+all_values = [
+    year_data['numberBll5']
+    for borough_data in all_bll_data.values()
+    for year_data in borough_data.values()
+]
+
+average_bll = round(sum(all_values) / len(all_values))
 
 app = Flask(__name__, static_url_path='', static_folder='static')
 
@@ -17,9 +28,6 @@ def about():
 
 @app.route('/macro')
 def macro():
-    import os
-
-    json_path = os.path.join(os.path.dirname(__file__), "data", "data.json")
     with open(json_path) as f:
         data = json.load(f)
 
@@ -39,6 +47,7 @@ def macro():
 
     return render_template(
         "macro.html",
+        average_bll=average_bll,
         years=years,
         borough_endpoints=borough_endpoints,
         y_max=y_max,
@@ -48,7 +57,6 @@ def macro():
 @app.route('/micro')
 def micro():
     year = request.args.get('year', '2010')
-    json_path = os.path.join(os.path.dirname(__file__), "data", "data.json")
     with open(json_path) as f:
         data = json.load(f)
 
@@ -76,8 +84,10 @@ def micro():
     return render_template(
         'micro.html',  # use your actual filename
         year=year,
+        average_bll=average_bll,
         borough_lightness=borough_lightness,
-        legend_values=legend_values
+        legend_values=legend_values,
+        borough_data=values
     )
 
 if __name__ == '__main__':
