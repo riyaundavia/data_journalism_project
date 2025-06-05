@@ -84,10 +84,10 @@
       {% set label = min_val + ((max_val - min_val) / 9) * i %}
       <rect x="{{ i*40 + 10 }}" y="10" width="40" height="80" fill="hsl(0, 100%, {{ lightness }}%)" />
       <text x="{{ i*40 + 30 }}" y="105" text-anchor="middle" font-size="11" fill="black">
-        {{ label | round }}
+        {{label|round|int}}
       </text>
     {% endfor %}
-    <text x="210" y="130" text-anchor="middle" font-size="13" fill="white"> Number of Children w/ BLL ≥ 5 µg/dL</text>
+    <text x="210" y="130" text-anchor="middle" font-size="13" fill="black"> Number of Children w/ BLL ≥ 5 µg/dL</text>
   </svg>
 
   <div class="container mt-2">

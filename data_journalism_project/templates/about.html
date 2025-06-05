@@ -10,14 +10,37 @@
     {% include 'navbar.html' %}
 
     <div class="container mt-4">
-      <h1>Health Education in NYC</h1>
+      <h1>Elevated Blood Lead Levels in Children Under 6 in NYC</h1>
       <h2>
        Research on blood lead levels of young children in New York City is crucial for identifying public health and structural inequalities. Data separated by borough can help us understand how socioeconomic status, location, and quality of life are intimately related - especially in a place as socioeconomically diverse as NYC. 
        Currently, children of lower socioeconomic status are more likely to have elevated blood lead levels as they live in older housing units. This inequity desperately needs to be resolved. The CDC considers any level below 3.5 micrograms per deciliter to be normal. The data shown is of children who more than 5 micrograms per deciliter.  
+       <a href="https://drive.google.com/drive/folders/1N_TMR2gEVH3rW0GnU_QGfSXLzMDIDf55?dmr=1&ec=wgc-drive-globalnav-goto" target="_blank">Video Link!</a>
+</p>
       </h2>
     </div>
+    <hr class="my-4">
 
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js" integrity="sha384-j1CDi7MgGQ12Z7Qab0qlWQ/Qqz24Gc6BM0thvEMVjHnfYGF0rmFCozFSxQBxwHKO" crossorigin="anonymous"></script>
+    <h2 class="mt-4">Prototypes</h2>
+    
+    <div class="row mt-3">
+      <div class="col-md-6 mb-3">
+        <div class="card shadow-sm">
+          <img src="{{ url_for('static', filename='info_proto.jpg') }}" class="card-img-top" alt="Information Prototype">
+          <div class="card-body">
+            <p class="card-text text-center">Infographic Prototype</p>
+          </div>
+        </div>
+      </div>
+      <div class="col-md-6 mb-3">
+        <div class="card shadow-sm">
+          <img src="{{ url_for('static', filename='map_proto.jpg') }}" class="card-img-top" alt="Map Prototype">
+          <div class="card-body">
+            <p class="card-text text-center">Map Prototype</p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.6/dist/js/bootstrap.bundle.min.js"></script>
   </body>
   {% include 'footer.html' %}
 </html>
